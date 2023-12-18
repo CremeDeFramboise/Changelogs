@@ -1,0 +1,508 @@
+[SC Version 1.6b] 12/18/2023
+==============================
+Last hot fix. This will be the last update of Sephira Conclave and I will now focus on other projects. Even though this is a cursed private project, you have my thanks for playing it.
+
+[Changes]
+Campaign
+- Increased drop rate of Secured Data Storage.
+
+Bladestalker
+- Its ship system reverted to Devil Ray's.
+- Reworked one of its built-in hullmod. This now provides a passive system that deals more damage to overloaded ships nearby.
+
+Sephiran Reassembly Hullmod:
+- Added a visual indicator in combat for its passive effects.
+
+Cheshire Missile Series:
+- Increased ammo count.
+=============================
+
+
+
+
+
+
+--| OLD CHANGELOGS |--
+[SC Version 1.6a] 12/10/2023
+==============================
+This will be the last update of Sephira Conclave and I will now focus on other projects. Even though this is a cursed private project, you have my thanks for playing it.
+
+[General]
+- Added a fancy fluff for Nexerelin's faction start description (Night Ravens and Sephira Conclave). 
+- There is a character sprite now for the grumpy secretary of Melva.
+- Updated maps for gLib (thanks Himemi!).
+
+[Campaign]
+- Added new star systems near Qliphoth.
+- Qliphoth is a constellation now.
+- Redistributed the loot and salvageable shit in Qliphoth to other star systems.
+- Added new star system in Blade Breakers system.
+- Added roaming boss fleet.
+- Sephira Conclave start will provide you stipend for 2 cycles.
+- Sephira Conclave start will provide you their logistic hullmod specs from start.
+- Fixed the reward bug from the Vice Commander at rep 50.
+- Fixed the non-hostile fleets spawning from Breaker Bountry docket.
+- Fixed the non-hostile handmade guard fleets.
+- New magicbounty available in Starkeep's bounty board.
+- More hidden stuff to discover.
+
+[Crossmod]
+- UAF collaboration side quest is now available - will activate when UAF mod is present.
+- Reach 25+ relation level with the vice commander to start the side quest.
+- In the event of UAF is not present, the Shinoria (SC) will appear as a derelict somewhere.
+
+[Changes]
+Portraits
+- Massive overhaul for the mod's portraits.
+
+Aberrant
+- Added built-in hullmod
+- Received new ship system.
+
+Incipient
+- Added built-in hullmod
+- Reworked its ship system.
+
+Mordant
+- Decreased DP from 8 to 4.
+
+Seraph/Sephira Cell
+- Added Sigma Trail fx.
+
+Typhon
+- Added a hardcap range bonus for the Linked Targeting Unit. Can not go beyond 60% despite it can only have 30% by default.
+
+Stilt Drone Wing
+- Adjusted its stats to be serviceable as a modular cheap interceptor wing.
+
+Mincer 
+- Adjusted the overtuned DPS which I forgot to give a proper pass.
+
+Burstwave AC
+- Added a proper tag to make it aim at frigates.
+- Increased projectile speed by 100.
+
+Cryobolt Heavy Autocannon
+- Will now properly target and kill frigates.
+
+Impetus LRM series
+- Adjusted its missile health points to a more reasonable level.
+
+Positron Hypercannon
+- Added charging FX.
+
+Stormkeeper's M81A 40mm Fusion Gun
+- Increased projectile speed.
+- Changed on-hit damage type to HE.
+
+Black Lotus:
+- Increased ship system cooldown.
+
+[Hullmods]
+Sephiran Reassembly:
+- Reworked its effect.
+- An indicator is added to monitor its real-time effects in combat.
+
+Hex Phase Coil:
+- Fixed the values in the tooltip.
+
+Calibrated Fuel Tanks:
+- Increased fuel cost reduction s-mod bonus from 5% to 10%
+
+Fortified Crew Quarters:
+- Gives slight increase to armor rating
+- Increased s-mod bonus effect
+
+Durable Cargo Holds:
+- Increase weapon and engine durability
+- Increased s-mod bonus effect
+
+Utility Drones:
+- Increased s-mod bonus effect
+
+Beam Refractor:
+- Increased s-mod bonus effect from 10% to 15%
+
+Volt-Projector Upgrade:
+- Increased s-mod bonus effect: damage dealt to shield to 15%
+- Increased s-mod penalty: reduced rate of fire from 5% to 10%
+
+Weapon Overcharger:
+- Increased s-mod bonus effect from 5% to 10%
+
+Sigma Node:
+- Readjusted its bonus and malus.
+
+[Skills]
+Compressed Armor Layering
+- Fixed the values of damage reduction.
+
+Auxiliary Shield Matrix
+- Fixed the values of damage reduction.
+
+[NEW]
+Ships:
+- Stormkeeper Superfrigate for Night Ravens super ship start.
+- Vortex-class Battlecruiser.
+- Ironhand-class Capital.
+- Nightjar-class Cruiser.
+- Grimoire-class Cruiser
+- Catastrophe-class Superdreadnought.
+- Incipient-class Cruiser.
+- Prudent-class Supply Barge.
+
+Weapons:
+- Lappland Dual Cannon
+- Lappland Super Heavy Cannon
+- Striga Lance Beam
+- Bristlefront Corrosive Missile
+
+Hullmod:
+- Battleline Conversion hullmod (logistic).
+
+[REMOVED]
+Pastorus
+Falcon (SC)
+Griever
+Incision
+Portend
+Kite (SC)
+=============================
+
+
+[SC Version 1.4a] 09/09/2023
+==============================
+The start of main story mission of Sephira Conclave.
+
+[General]
+- Some minor clean up that I forgot which is which lol
+
+[Changes]
+Conquest (SC)
+- Removed
+
+[NEW]
+- Aberrant-class battlecruiser
+- ???
+
+Campaign:
+- Main story mission: Operation Burning Storm
+- To start the mission, it requires 20/100 relation with the Vice Commander
+- All I can say is good luck
+
+Note:
+There are still fucktons of things that I need to address and change in the mod but I don't have the luxury of time to do it but I will, eventually...
+=============================
+
+
+
+[BB+ Version 1.3d] ??/??/2023
+==============================
+Content and existential dread. Still WIP.
+
+[General]
+- Changed and refactored the installation script of S-Drive. It will immediately refund the Sigma Matter when the hullmod is removed.
+
+Campaign:
+- Sephira Conclave and Night Ravens Nexerelin Start will give you one Sephiran elite skill
+- Sephira Conclave start will have an increased relation with existing NPCs in the Starkeep comms
+- New Super Ship start for Sephira Conclave
+- Added an elite task force that orbits the Starkeep
+- Night Ravens start will provide you a special level 7 officer
+- The special level 7 officer has its own combat chatter lines
+
+[Changes]
+Falcon (SC)
+- Removed two built-in PDs at front
+- Changed the two small synergy hardpoints into medium
+
+Menace MK.I and II
+- Added Sephiran Reassembly hullmod built-in
+
+[NEW]
+- Cheshire missile series
+- Impetus LRM series
+
+Protip: If you decided to start with the super ship, make sure to talk to the chief researcher before doing anything else.
+=============================
+
+
+
+[BB+ Version 1.2g RC8 DEV] 0?/??/2023
+==============================
+Minor campaign and quest content fix.
+
+[General]
+- Fix some typos on S-Drive Accelerator hullmod
+- Resprited Cleaver medium and small
+- Revisited ship sprites and made them smoother
+- Revised hullmod tooltip format
+- Remade the Beam Refractor hullmod and made it more sensible
+- Added Sephira Conclave's Nexerelin start
+- Added Night Ravens' Nexerelin Start
+- Fixed the dumb metal trader bug (for real)
+
+Campaign:
+- The Vice Commander will now offer a separate bounty docket that is focused on Blade Breaker fleets
+- Typhon-class Carrier is added as a derelict somewhere in an inhabited system of the core worlds
+- Sephira Conclave starting officers will have one unique skill
+
+[Cross-mod Interaction]
+- Added a one-off cruiser reward by completing the collab UAF mission content (under heavy WIP)
+- Collab mission is still under construction
+- Removed IndEvo mines around the Starkeep
+
+[Changes]
+Augment Quest:
+- Relocated the mission related Tri-Tachyon NPC from Tibicena to Agreus, this is to avoid further fuckery and cucking you from finishing the mission
+
+Incision-class Troops Transport:
+- Received a new built-in fighter with combat boarding mechanics
+
+Griever-class Armored Tanker: 
+- Ship system is changed into Self Destruct
+
+Viator-class Cruiser:
+- Resprited Viator-class cruiser
+
+[NEW]
+- Mordant-class Line Frigate
+- Typhon-class Carrier
+- Readded Mincer Assault Cannon
+==============================
+
+
+[BB+ Version 1.2b DEV] 03/15/2022
+==============================
+Major changes and overhauling. Hopefully the distinction I made is clear enough for the bottomfeeders to understand.
+
+[General]
+- Now compatible with 0.95.1a-RC6
+- Another pass and clean up in rules.csv, much more refined now
+- Adjusted Sigma Matter turn-in rep value with Gemie
+- Changed the tariff in Starkeep Sephira from 12% to 15%
+- Declutter things and finally removed unused weapons
+- Changed the name of the hidden faction into Sephira Conclave
+- Changed the paint scheme of ships
+- Changed internal IDs and tags
+- Fixed the weird derelict bug surrounding Thagirion's gate
+
+[Cross-mod Interaction]
+Industrial.Evolution:
+- If IndEvo is present, Repair Docks structure will be added in Starkeep Sephira
+Iron Shell:
+- If Iron Shell is present, the special NPC interaction feature will be available to certain NPCs in Starkeep Sephira
+- Because techpriest is such a shitter in rules.csv he made a duplicate <Chat> so go blame him for that
+
+[NEW]
+Weapon:
+- Added Decimator LAC-0400 (small ballistic hybrid) - Sephira Labs
+- Added Decimator HAC-0660 (medium ballistic hybrid) - Sephira Labs
+
+Ship:
+- Added mainline destroyer Manacle-class
+- Uses a temp/filler ship system (will change this into less boring one someday ok!?)
+
+Campaign:
+- The defense captain in Starkeep Sephira can now purchase metals and rare metals from you
+- Has higher sell value than selling it to the market
+- If you have Ind.Evo on, he will also purchase Relic Components from you
+- Added unique interactions for the defense captain NPC
+- Desaturated the recoverable ships in the hidden star system
+- Fixed the bizarre bug in one of the derelicts in the hidden star system
+- The recruitable special officers from Sephira gets their own distinct custom skill tree
+- Improved the implementation of the augment quest from Vice Commander Harksten - has now a proper mission intel and tracking
+
+[Removed]
+Nexerelin:
+- Removed Bladestalker from Blade Breaker Deserters start
+
+Ship:
+- Removed Onslaught (refit)
+
+Hullmod:
+- Removed the easter egg Commissioned Crews hullmod - Sigma Tech Procedures
+
+Weapons:
+- Electron Torpedo Platform
+- Oeagrus Missile Launcher
+- Hex ACG-04
+- Lamia Quad S-Blaster
+
+[Changes]
+Bounties:
+- Fixed the non-existent ship variant in the HVB csv
+
+Nexerelin:
+- Night Raven mercenaries has now their own unique skill tree, go check them out!
+- Adjusted their ships variant settings
+
+Synergist Cluster Point:
+- When installed, it will change the color of the Planetary Shield into Sigma Green
+- This is not applicable if you have a mod that changes the behaviour of vanilla Planetary Shield
+
+Cleaver Series:
+- Re-sprited to make look less scuffed/shit
+- Removed visual clutter
+
+Deerstalker:
+- Changed from High Explosive to Fragmentation
+- Lessened flux consumption
+- Added new on-hit effects
+
+Scatterbolt Burst MC:
+- Is now part of the Sephira Conclave arsenal
+- No longer drops or spawn from BB fleets
+- Renamed into Burstwave Autocannon
+
+Purgatory Decimator UHC:
+- Is now part of the Sephira Conclave arsenal
+- No longer drops or spawn from BB fleets
+
+Compact Missile Fabricator hullmod:
+- No longer reloads missiles above its capacity
+- Reload mechanism will no longer activate if every missiles are full
+
+Sigma Drive Accelerator:
+- Changed zero-flux top speed from 15 to 50 for non-BB ships and 10 to 40 for Blade Breaker ships
+- Adjusted the reduced peak performance time by a factor of 0.75
+- Changed the flux dissipation bonus by a factor of 2.3 for non-BB ships and 2.0 for Blade Breaker ships
+
+Sigma Node hullmod:
+- Added S-mod bonus: Further improves venting speed rate by 10%
+
+Weapon Overcharger hullmod:
+- Changed its market price down to reasonable amount
+
+Baikal (BB):
+- Ship system reduces damage taken from ship explosions by 50%
+- Added a Defense variant
+
+Black Lotus Carrier:
+- Is no longer part of the Blade Breakers
+- Changed as a main-line carrier for Sephira Conclave
+- Stats adjusted
+
+Bladestalker:
+- Hexcoils Ancillary built-in hullmod will now provide bonus top speed while phase cloak is active
+
+Conquest (refit):
+- Increased deployment cost from 40 to 50
+
+Griever Fuel Tanker:
+- Changed the fuel consumption down to 6 fuel/ly
+
+Portend Cargo:
+- Changed the fuel consumption down to 6 fuel/ly
+
+Caprice:
+- Changed the fuel consumption down to 5 fuel/ly
+
+Venture (refit):
+- Renamed to Viator
+- Removed two small rear weapon slots
+- Increased armor from 1050 to 1100
+
+Shepherd (refit)
+- Renamed to Pastorus
+
+Mnemosyne:
+- Properly implemented its Naiad Oscillation hullmod (has a cosmetic change when you install S-Drive + stat small bonus)
+- Added Neural Interface hullmod as built-in
+- Fixed the weird CTD when certain hullmod is viewed at the main menu mission screen (fuck you techpriest)
+
+Moroi Bomber:
+- New ship system
+- Further adjusted its stats
+
+Scabbard Assault Drone:
+- Is now part of Sephira Conclave arsenal
+- Changed its ship system into skimmer type
+==============================
+
+
+[BB+ Version 1.1b] 11/04/2021
+==============================
+Minor fixes to some things. It is save compatible, wow!
+
+[General]
+- Reactivated the hidden Commissioned Crews hullmod to prevent it from crashing (with a slight nerf xd)
+- Removed irrelevant entries in settings.json
+- Applied fixes to certain rules.csv lines (oops!)
+
+[Changes]
+Sigma Drive Condenser hullmod:
+- Changed the hullmod tooltip into more detailed manner. There will be a clear distinction between phase ship and non-phase ship bonuses
+==============================
+
+
+[BB+ Version 1.1a] 11/02/2021
+==============================
+BB+ will no longer be available in public. Fuck changelogs and fuck pl*yers.
+ 
+[General]
+- All the hulls/hullmods/weapons added by this mod are now listed under the tech/manufacter called Sephira Labs except to the very few (BB) hulls and weapons
+- The said deserter stuff falls under Sephira Blueprint Package which can be obtained by reaching certain relation level with the vice commander
+- Applied appropriate tags for each weapons that I overlooked
+- Fixed the sudden pather reduction of Sephira Outpost wherein it is still under construction
+- Adjusted Asymptote's ship system, no longer fucky, I think?
+- Adjusted the reward threshold for the Vice Commander
+- Crappy and lenghty weapon descriptions were changed into quotes (thanks Ava and barrackollama69)
+- Baikal (BB) heavy cruiser is now recoverable using the Automated Ships skill
+
+[NEW]
+- Beam Refractor Hullmod
+- Compact Missile Fabricator Hullmod
+- Volt-Projector Upgrade Hullmod
+- Positron Cannon series added
+- Added new reward from Gemie
+- New side quests
+
+[Removed]
+- None because it's no longer public
+
+[Changes]
+Incision Troops Transport:
+- Adjusted its crew capacity to reasonable amount
+
+Griever Fuel Tanker:
+- Adjusted its fuel capacity to reasonable amount
+
+Portend Cargo:
+- Adjusted its cargo capacity to reasonable amount
+
+Moroi Bomber:
+- Wrathspike speed increased
+- Wrathspike gets an extra HE damage on-hit effect
+- Refit time decreased from 32 to 27
+- Armor increased from 85 to 100
+
+Grimfang Wings:
+- Adjusted their beam blade RoF to reasonable cooldown
+- Adjusted their overtuned beam blade damage (lol)
+- Added new effect to the beamer weapon
+
+Weapon Overcharger Hullmod:
+- Increased the damage bonus from 15% to 20%
+
+Soul Cleavers:
+- Adjusted their flux eff
+- Made their on-hit less crap
+
+ACGs:
+- Made them less shit
+- Adjusted flux eff and charge down
+- Added new on-hit effect
+
+Purgatory Demicator UHC:
+- Charge down decreased by 2 seconds
+
+Specialized Logistic Complements:
+- Removed the built-in from Light, Heavy Cargo Rig and Starsylph (Refit)
+==============================
+
+
+[BB+ Version 1.0] 10/05/2021
+==============================
+- Initial release
+==============================
